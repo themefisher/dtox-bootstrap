@@ -4,22 +4,6 @@
 
 👉🏻[View Live Preview](https://demo.themefisher.com/dtox/)
 
-<!-- resources -->
-## Pages
-
-* **Home**
-* **About**
-* **Service**
-* **Doctor**
-* **Doctor Single**
-* **Appointment**
-* **Appointment Confirmation**
-* **Department**
-* **Department Single**
-* **Blogs**
-* **Blogs Details**
-* **Contact**
-
 <!-- download -->
 ## Download And installation
 
