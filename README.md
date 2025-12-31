@@ -1,6 +1,6 @@
 # Dtox Free Bootstrap SAAS Template
 
-![dtox](https://demo.themefisher.com/thumbnails/dtox.png)
+![dtox](https://assets.teamosis.com/thumbs/dtox.png)
 
 👉🏻[View Live Preview](https://demo.themefisher.com/dtox/)
 
